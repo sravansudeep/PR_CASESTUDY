@@ -53,16 +53,6 @@ CONTACT_PATH = "path/to/srkw_contacts_edgelist.csv"
 | Sex (Male) | 0.000 | [0.000, 0.000] | No |
 | Intercept | 0.295 | [0.274, 0.313] | - |
 
-### Top 5 Central Whales
-
-| ID | Centrality | Age | Sex |
-|----|-----------|-----|-----|
-| J53 | 0.371 | 4 | F |
-| J46 | 0.349 | 10 | F |
-| J41 | 0.290 | 14 | F |
-| J40 | 0.279 | 15 | F |
-| J35 | 0.276 | 21 | F |
-
 ### Key Findings
 - Matriarchal structure: Top whales all female
 - Younger whales slightly more central
@@ -91,7 +81,6 @@ CONTACT_PATH = "path/to/srkw_contacts_edgelist.csv"
 
 - R̂ < 1.01 for all parameters 
 - ESS: 870 (alpha_0), 1133 (alpha_nb), 171 (sigma_u)
-- Runtime: ~10-15 minutes
 
 ---
 
